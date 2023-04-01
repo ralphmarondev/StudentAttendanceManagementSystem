@@ -1,0 +1,13 @@
+﻿# LOGS FOR THE PROGRESS OF THE APPLICATION
+March 15, 2023
+	-> Finished planning the initial execution of 
+		the software.
+
+March 20, 2023
+	-> Managed to connect the login form with mysql 
+		database
+
+March 23, 2023
+	-> Finished the skeleton for login and dashboard
+
+

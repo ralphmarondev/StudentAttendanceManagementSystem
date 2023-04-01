@@ -1,0 +1,44 @@
+﻿# THIS FILE IS FOR DEVELOPERS ONLY!!!
+# DON'T EDIT!!! :)
+
+LoginForm.cs
+	main form 
+		-> where the human<->computer interaction
+		begins
+
+MainScreen.cs
+	secondary form
+		-> where the verified administrator will have the
+		options  to manage students, attendance etc.
+		-> it is one of the most important form in this
+		software
+
+AttendanceForm.cs
+	-> the most important form of them all. 
+	-> this is the main purpose of the program
+	-> used to edit the attendance of students in a given
+		class or department
+
+ReportsForm.cs
+	-> responsible for sending notifications to the user
+		based on the performance of the student, by the
+		given data in the system
+
+StudentForm.cs
+	-> used to manage students [add, remove, edit]
+
+UsersForm.cs
+	-> used to manage users of the software. [admin, sub-admin]
+
+ClassForm.cs
+	-> used to manage classes in the software
+
+PrintForm.cs
+	-> used to print the results from the reports form
+		if the user opt to.
+
+HelpForm.cs
+	-> use to show manual to the end users
+	-> this is also where we are going to write our names
+		[the developers, responsible for the creation of this
+			software]
