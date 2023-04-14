@@ -1,0 +1,14 @@
+﻿AS OF MARCH 23, 2023
+	
+	-> Make the UI of the login screen, so as the overall
+		software UI more appealing.
+		-> for UI/UX designer
+
+	-> Implement the User, Student, Attendance, Classes
+		forms, connected to database.
+		-> for programmers [I'm still learning mysql :( ]
+
+	-> Test the initial software the we have right now.
+		-> for testers [Run the software, then write down
+			the results, and bugs, if there is any. hope
+			you found one. lol]

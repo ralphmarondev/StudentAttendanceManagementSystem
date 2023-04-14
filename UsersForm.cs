@@ -1,12 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+﻿using System.Windows.Forms;
 
 namespace StudentAttendanceManagementSystem
 {
@@ -15,6 +7,18 @@ namespace StudentAttendanceManagementSystem
         public UsersForm()
         {
             InitializeComponent();
+        }
+
+        private void UsersForm_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            MainScreen main_screen = new MainScreen();
+
+            main_screen.Show();
+        }
+
+        private void UsersForm_Load(object sender, System.EventArgs e)
+        {
+
         }
     }
 }

@@ -1,0 +1,17 @@
+D:\Documents\dotnet\OOP\StudentManagementSystem\StudentAttendanceManagementSystem\bin\Release_0.0.1\StudentAttendanceManagementSystem.exe.config
+D:\Documents\dotnet\OOP\StudentManagementSystem\StudentAttendanceManagementSystem\bin\Release_0.0.1\StudentAttendanceManagementSystem.exe
+D:\Documents\dotnet\OOP\StudentManagementSystem\StudentAttendanceManagementSystem\obj\Release_0.0.1\StudentAttendanceManagementSystem.csproj.AssemblyReference.cache
+D:\Documents\dotnet\OOP\StudentManagementSystem\StudentAttendanceManagementSystem\obj\Release_0.0.1\StudentAttendanceManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\Documents\dotnet\OOP\StudentManagementSystem\StudentAttendanceManagementSystem\obj\Release_0.0.1\StudentAttendanceManagementSystem.AttendanceForm.resources
+D:\Documents\dotnet\OOP\StudentManagementSystem\StudentAttendanceManagementSystem\obj\Release_0.0.1\StudentAttendanceManagementSystem.ClassesForm.resources
+D:\Documents\dotnet\OOP\StudentManagementSystem\StudentAttendanceManagementSystem\obj\Release_0.0.1\StudentAttendanceManagementSystem.HelpForm.resources
+D:\Documents\dotnet\OOP\StudentManagementSystem\StudentAttendanceManagementSystem\obj\Release_0.0.1\StudentAttendanceManagementSystem.LoginForm.resources
+D:\Documents\dotnet\OOP\StudentManagementSystem\StudentAttendanceManagementSystem\obj\Release_0.0.1\StudentAttendanceManagementSystem.MainScreen.resources
+D:\Documents\dotnet\OOP\StudentManagementSystem\StudentAttendanceManagementSystem\obj\Release_0.0.1\StudentAttendanceManagementSystem.PrintForm.resources
+D:\Documents\dotnet\OOP\StudentManagementSystem\StudentAttendanceManagementSystem\obj\Release_0.0.1\StudentAttendanceManagementSystem.Properties.Resources.resources
+D:\Documents\dotnet\OOP\StudentManagementSystem\StudentAttendanceManagementSystem\obj\Release_0.0.1\StudentAttendanceManagementSystem.ReportsForm.resources
+D:\Documents\dotnet\OOP\StudentManagementSystem\StudentAttendanceManagementSystem\obj\Release_0.0.1\StudentAttendanceManagementSystem.StudentsForm.resources
+D:\Documents\dotnet\OOP\StudentManagementSystem\StudentAttendanceManagementSystem\obj\Release_0.0.1\StudentAttendanceManagementSystem.UsersForm.resources
+D:\Documents\dotnet\OOP\StudentManagementSystem\StudentAttendanceManagementSystem\obj\Release_0.0.1\StudentAttendanceManagementSystem.csproj.GenerateResource.cache
+D:\Documents\dotnet\OOP\StudentManagementSystem\StudentAttendanceManagementSystem\obj\Release_0.0.1\StudentAttendanceManagementSystem.csproj.CoreCompileInputs.cache
+D:\Documents\dotnet\OOP\StudentManagementSystem\StudentAttendanceManagementSystem\obj\Release_0.0.1\StudentAttendanceManagementSystem.exe

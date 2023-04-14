@@ -67,7 +67,7 @@
             this.groupBoxLogin.Controls.Add(this.tb_username);
             this.groupBoxLogin.Controls.Add(this.label1);
             this.groupBoxLogin.Font = new System.Drawing.Font("Courier New", 14F, System.Drawing.FontStyle.Bold);
-            this.groupBoxLogin.Location = new System.Drawing.Point(366, 126);
+            this.groupBoxLogin.Location = new System.Drawing.Point(361, 170);
             this.groupBoxLogin.Name = "groupBoxLogin";
             this.groupBoxLogin.Size = new System.Drawing.Size(475, 424);
             this.groupBoxLogin.TabIndex = 1;
@@ -151,7 +151,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(593, 22);
             this.label3.TabIndex = 2;
-            this.label3.Text = "Copyrights 2023. ALL RIGHTS RESERVED! RALPH MARON EDA";
+            this.label3.Text = "COPYRIGHTS 2023. ALL RIGHTS RESERVED! RALPH MARON EDA";
             // 
             // label4
             // 

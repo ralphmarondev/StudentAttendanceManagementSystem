@@ -1,0 +1,7 @@
+MARCH 23, 2023
+	-> I tried running the software in other computer but
+		I didn't work out. Maybe because the database
+		is in this computer and it is not connected
+		to the other computer in which I tried the software.
+	-> I am waiting for my groupmates feedback about this, 
+		since I told them to run it. lol

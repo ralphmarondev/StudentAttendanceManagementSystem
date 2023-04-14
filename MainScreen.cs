@@ -64,5 +64,28 @@ namespace StudentAttendanceManagementSystem
             print_form.Show();
             Hide();
         }
+
+        private void btn_attendance_Click(object sender, EventArgs e)
+        {
+            AttendanceForm attendance_form = new AttendanceForm();
+
+            attendance_form.Show();
+            Hide();
+        }
+
+        private void btn_students_Click(object sender, EventArgs e)
+        {
+            StudentsForm students_form = new StudentsForm();
+
+            students_form.Show();
+            Hide();
+        }
+
+        private void MainScreen_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            LoginForm login_form = new LoginForm();
+
+            login_form.Show();
+        }
     }
 }

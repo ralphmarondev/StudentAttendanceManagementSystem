@@ -19,6 +19,33 @@ namespace StudentAttendanceManagementSystem
 
         private void btn_login_Click(object sender, EventArgs e)
         {
+            btn_login_Click_without_database();
+        }
+
+        private void btn_login_Click_without_database()
+        {
+            string username, password;
+
+            username = tb_username.Text;
+            password = tb_password.Text;
+
+
+            if (username == "root" && password == "toor")
+            {
+                MainScreen main_screen = new MainScreen();
+
+                main_screen.Show();
+                this.Hide();
+            }
+            else
+            {
+                MessageBox.Show("Invalid Login Details", "ERROR!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                tb_username.Clear();
+                tb_password.Clear();
+            }
+        }
+        private void btn_login_Click_with_database()
+        {
             //MainScreen main_screen = new MainScreen();
 
             //main_screen.Show();
@@ -55,7 +82,6 @@ namespace StudentAttendanceManagementSystem
             {
                 MessageBox.Show("Invalid Credentials!");
             }
-
 
         }
 

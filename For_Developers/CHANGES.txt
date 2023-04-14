@@ -1,0 +1,10 @@
+﻿THIS FILE IS WHERE I WILL WRITE ALL OF THE CHANGES
+MADE IN THE PROJECT
+
+
+April 14, 2023
+	-> Created "ForTesting" folder to put the 
+		executable files to be executed by the testers
+	-> Made an executable file that is not connected to
+		the database, so that anyone with the executable
+		file can execute without needing the database.
